@@ -6,4 +6,5 @@ In this chapter you will be learning about how to import Libraries or Modules.
 <h3>Jedi Tasks</h3>
 <ol>
   <li>Take Home Test</li>
+  <li>Function Call</li>
   </ol>
