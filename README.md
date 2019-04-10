@@ -1,2 +1,9 @@
-# Ch.14_Libraries
-Working with Libraries or Modules
+<img align="left" src="http://hermonswebsites.com/Classes/CS/python.png"><H2>Chapter 14 Libraries</H2>
+
+In this chapter you will be learning about how to create sprites and detect collisions. 
+
+
+<h3>Jedi Tasks</h3>
+<ol>
+  <li>Take Home Test</li>
+  </ol>
