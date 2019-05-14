@@ -1,6 +1,5 @@
 '''
-HONOR CODE: I solemnly promise that while taking this test I will only use PyCharm or the Internet,
-but I will definitely not ask another person except the instructor. Signed: ______________________
+Sign your name:________________
  
 For this test, take your 30 box program and remove the Ball Class into a seperate file called Box_Builder.py. Now just
 import the Ball Class into your main program. No need to pull request this. Just show it to your instructor if you can get
